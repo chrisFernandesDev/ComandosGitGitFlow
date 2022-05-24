@@ -1,0 +1,17 @@
+- Você deverá estudar como funciona os comandos de Git e o Git Flow.
+- Criar um repositorio no GitHub e aplicar os comandos, lembre de nos passar o link para avaliar.
+
+
+Git: Git é o sistema de controle de versão open source
+
+Git Flow: O Gitflow é um modelo alternativo de ramificação do Git que consiste no uso de ramificações de recursos e várias ramificações primárias.
+
+Entender o que é:
+- Como criar branch
+- O que é commit?
+- Pra que serve a master
+- Pra que serve a develop
+- Como mergear entre uma e outra
+- Como subir dados
+- Como resgatar dados
+- Como mudar para um commit especifico
